@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e estou finalizando meu técnico em Informática.  <br>💻 Foco atual<br>- Desenvolvimento em C#, PHP e JavaScript <br>- Aprofundando conhecimentos em Node.js e React <br>🚀 Objetivo <br>Construir uma carreira sólida em desenvolvimento, aplicando meus conhecimentos em projetos práticos e buscando constantemente novos aprendizados.  <br>📚 Sempre em evolução  <br>Aberto a colaborações, trocas de conhecimento e novos desafios!</p>
+<p align="left">👋 Olá! Me chamo Alexandre Loiola dos Santos, tenho 23 anos, moro em São Paulo/SP. Sou estudante de Análise e Desenvolvimento de Sistemas e estou finalizando meu técnico em Informática.  <br><br>💻 Foco atual<br>- Desenvolvimento em C#, PHP e JavaScript <br>- Aprofundando conhecimentos em Node.js e React <br><br>🚀 Objetivo <br>Construir uma carreira sólida em desenvolvimento, aplicando meus conhecimentos em projetos práticos e buscando constantemente novos aprendizados.  <br><br>📚 Sempre em evolução  <br>Aberto a colaborações, trocas de conhecimento e novos desafios!</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Eu codifico em</h2>
+<h2 align="left">Conhecimento em</h2>
 
 ###
 
@@ -36,6 +36,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
 ###
